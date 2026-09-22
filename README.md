@@ -22,7 +22,7 @@ The article describes a 596-student dataset and reports group-level tables, corr
 ```python
 import pandas as pd
 
-url = "RAW_GITHUB_URL_TO/article_derived_dataset.csv"
+url = "https://github.com/RobertGulmayo9/article_derived_student_academic_performance-DATASET-/blob/main/dataset/article_derived_dataset.csv"
 df = pd.read_csv(url)
 df.head()
 ```
