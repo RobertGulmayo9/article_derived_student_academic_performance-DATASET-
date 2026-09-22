@@ -1,0 +1,7 @@
+predictor,correlation_r,p_value,significance,analysis_status
+General Ability,0.767,0.0,Highly Significant,Included
+HS GWA,0.728,0.0,Highly Significant,Included
+HS Strand,-0.425,0.0,Highly Significant,Included in feature analysis; not in final equation
+Sex,0.321,0.0,Highly Significant,Included
+Course,0.161,0.0,Highly Significant,Included
+Type of School,0.004,0.93,Not Significant,Excluded

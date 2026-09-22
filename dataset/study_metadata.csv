@@ -1,0 +1,14 @@
+field,value
+source,"Dagdagui (2022), American Journal of Educational Research 10(11), 640-646"
+author,Rolly T. Dagdagui
+year,2022
+article_title,Predicting Students’ Academic Performance Using Regression Analysis
+study_population_reported_in_methodology,596
+school_year,2019-2020
+design,Correlational research design
+software,SPSS
+adjusted_R2,0.673
+ANOVA_F,307.644
+ANOVA_p,<0.001
+dependent_variable,First-year academic performance
+final_predictors,HS GWA; General Ability; Sex; Course

@@ -1,0 +1,26 @@
+grouping_variable,category,n,mean_first_year_performance,performance_class,correlation_r,p_value,significance,analysis_status
+Sex,Male,303,81.66,Below Average,,,,
+Sex,Female,293,85.27,Average,,,,
+Sex,Total,596,83.43,Below Average,,,,
+Course,BSCrim,331,82.31,Below Average,,,,
+Course,BSED,99,85.88,Average,,,,
+Course,BEED,61,83.92,Below Average,,,,
+Course,BSN,63,83.19,Below Average,,,,
+Course,BSA,42,86.12,Average,,,,
+Course,Total,596,83.43,Below Average,,,,
+Strand,STEM,71,87.17,Average,,,,
+Strand,HUMSS,114,85.36,Average,,,,
+Strand,GAS,117,82.96,Below Average,,,,
+Strand,TVL,163,83.54,Below Average,,,,
+Strand,ABM,42,86.29,Average,,,,
+Strand,ALS & BEC,89,77.05,Poor,,,,
+Strand,Total,596,83.43,Below Average,,,,
+Type of School,Private,127,83.39,Below Average,,,,
+Type of School,Public,469,83.44,Below Average,,,,
+Type of School,Total,596,83.43,Below Average,,,,
+Predictor Correlation,General Ability,,,,0.767,0.0,Highly Significant,Included
+Predictor Correlation,HS GWA,,,,0.728,0.0,Highly Significant,Included
+Predictor Correlation,HS Strand,,,,-0.425,0.0,Highly Significant,Included in feature analysis; not in final equation
+Predictor Correlation,Sex,,,,0.321,0.0,Highly Significant,Included
+Predictor Correlation,Course,,,,0.161,0.0,Highly Significant,Included
+Predictor Correlation,Type of School,,,,0.004,0.93,Not Significant,Excluded
